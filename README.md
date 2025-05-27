@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LÊ NGUYỄN VŨ HOÀNG - Hayden</h1>
-<h3 align="center">🚀 AWS FIRST CLOUD JOURNEY | 4th year student @ VLU | AWS Intern</h3>
+<h3 align="center">🚀 AWS FIRST CLOUD JOURNEY | 4th year student @ VLU | AWS First Cloud Journey Technician</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
