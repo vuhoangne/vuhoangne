@@ -1,33 +1,43 @@
-<h1 align="center">Hi 👋, I'm LÊ NGUYỄN VŨ HOÀNG - Hayden</h1>
-<h3 align="center">🚀 AWS FIRST CLOUD JOURNEY | 4th year student @ VLU | AWS First Cloud Journey Technician</h3>
+<h1 align="center">I'm Lê Nguyễn Vũ Hoàng - Hayden!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
+<p align="center">🚀 AWS FIRST CLOUD JOURNEY | 4th year student @ VLU | AWS First Cloud Journey Technician</p>
+
+---
+
+- 👨‍🎓 I am currently a 4th year student at Văn Lang University (VLU)  
+- 📬 Contact me: [vuhoangdz2003@gmail.com](mailto:vuhoangdz2003@gmail.com)  
+- 📱 Phone: 0937036966  
+- ⚡ I’m eager to learn, love challenges, and passionate about cloud technology  
+
+---
+
+### Connect with me:
+<p>
+  <a href="https://www.facebook.com/vuhoang.lenguyen.3/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lenguyenvuhoang-hayden/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on: `AWS Labs`, `FCJ Member Management App`
-- 🌱 I’m currently learning: `AWS`, `DevOps`, `Cloud`, `Full-stack`
-- 👯 I’m looking to collaborate on: Open-source or Cloud projects
-- 💬 Ask me about: `AWS`, `React`, `Node.js`, `NestJS`
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lenguyenvuhoang-hayden)
-- ⚡ Fun fact: I love coding while listening to Lofi music 🎧
+---
+
+### Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,js,ts,vite,nodejs,express,nestjs,mysql,mongodb,graphql,git,vercel,vscode,netlify,docker,dotnet,cs,java,aws" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="350px" />
+</p>
 
 ---
 
-### 🧰 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nodejs,nestjs,ts,react,html,css,js,mysql,vscode" />
+### 🔥 GitHub Stats 🔥
 
----
-
-### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vuhoangne&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuhoangne&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vuhoangne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
