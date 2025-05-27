@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Lê Nguyễn Vũ Hoàng - Hayden!</h1>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11" width="1000px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2llY2liNDkxd2ZyaWtnejZwZnJyYmRpZXhhMjB3Z3N5czVlbnQzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="1000px" />
 </p>
 
 <p align="center">
