@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Lê Nguyễn Vũ Hoàng - Hayden!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1000px" />
 </p>
 
 <p align="center">
