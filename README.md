@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  ### 🚀 AWS FIRST CLOUD JOURNEY | 4th year student @ VLU | AWS First Cloud Journey Technician
+  ### 🚀 AWS FIRST CLOUD JOURNEY | DevOps/Serverless Developer | AWS First Cloud Journey Technician
   
 </p>
 
